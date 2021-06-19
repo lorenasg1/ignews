@@ -14,6 +14,7 @@ News website with paid subscription.
 - Next Auth
 - FaunaDB
 - Prismic CMS
+- Stripe
 
 ## License
 
